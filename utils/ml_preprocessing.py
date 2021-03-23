@@ -4,6 +4,12 @@ import numpy as np
 from sklearn.datasets import fetch_openml
 from sklearn.model_selection import train_test_split
 
+'''
+
+Module for loading, scaling, and splitting the MNIST784 dataset. T  
+
+'''
+
 def scale(data):
     '''
     min -max scales a numpy array
@@ -49,5 +55,6 @@ def fetch_visual_data(data_name = "mnist_784", version=1, train_size = 0.8, test
     X_test = scale(X_test)
     
     return  X_train, X_test, y_train, y_test
+
 if __name__ =="__main__":
     pass
