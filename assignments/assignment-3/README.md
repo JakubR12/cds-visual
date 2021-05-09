@@ -4,7 +4,7 @@ Assignment 3 - Edge Detection
 
 ### Reproducibility
 
-The results are reproducible by cloning the repository (link above) and running the edge_detection.py script in the virtual environment called create_edge_detection_venv. Required packages can be found in the requirements.txt file. The script was tested only on a linux server.
+The results are reproducible by cloning the repository (link above) and running the edge_detection.py script in the virtual environment called create_edge_detection_venv. Required packages can be found in the requirements.txt file. Alternatively, while being in the assignment-3 folder, you can just run the edge_detection.sh script which will automatically create a virtual environment, run the script and kill the environment to save your time. The pipeline was tested only on a linux server.
 
 ###  Description
 
