@@ -6,7 +6,7 @@ Assignment 3 - Edge Detection
 
 Link to the repository: https://github.com/JakubR12/cds-visual.git
 
-Link to the asssignment folder: https://github.com/JakubR12/cds-visual/tree/main/assignments/assignment-3
+Link to the assignment folder: https://github.com/JakubR12/cds-visual/tree/main/assignments/assignment-3
 
 ## Contribution
 
