@@ -4,17 +4,6 @@
 Script for cropping the text in an image and higlighting letters' edge contours using blurring and canny edge detection.
 
 creating visual environmet, executing code from the terminal.
-
-The script only uses the regular requirements from the cv101 environment used for the cds-cv course.
-
-If you don't have such an environment, you can run the line "bash create_vision_venv.sh"  from the terminal to create one.
-
-Activate the environment by running "source cv101/bin/activate".
-
-Go to the src folder of the repository by running cd src in the terminal.
-
-Run the the python script by running "python edge_detection.py".
-
 '''
 
 

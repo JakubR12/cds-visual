@@ -1,0 +1,7 @@
+Stuff to play with
+  dropout
+  data augmentation
+  regularization
+  batch normalization
+  other layers?
+  number of artists + specific combinations
