@@ -1,8 +1,3 @@
----
-output:
-  html_document: default
-  word_document: default
----
 Self-assigned project - Painter Classification
 ==============================
 **Peter Thramkrongart and Jakub Raszka**

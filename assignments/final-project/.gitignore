@@ -7,7 +7,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-env/
+cnn_v2_venv/
 build/
 develop-eggs/
 dist/
