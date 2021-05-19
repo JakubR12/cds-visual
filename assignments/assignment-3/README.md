@@ -37,9 +37,9 @@ We managed to highlight text in a given picture using computer vision. However, 
 
 Here are the images:
 
-![](./data/interim/image_cropped.jpg){width=200}
-![](./data/interim/image_with_ROI.jpg){width=200}
-![](./data/processed/image_letters.jpg){width=200}
+<img src="./data/interim/image_cropped.jpg" alt="Cropped Image" width="200"/>
+<img src="./data/interim/image_with_ROI.jpg" alt="Image with ROI" width="200"/>
+<img src="./data/processed/image_letters.jpg" alt="Image with Highlighted Letters" width="200"/>
 
 ## Reproducibility
 
