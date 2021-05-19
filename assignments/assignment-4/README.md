@@ -1,7 +1,3 @@
----
-output:
-  html_document: default
----
 Assignment 4 - Classification benchmarks
 ==============================
 **Peter Thramkrongart and Jakub Raszka**

@@ -1,8 +1,3 @@
----
-output:
-  word_document: default
-  html_document: default
----
 Assignment 3 - Edge Detection 
 ==============================
 **Peter Thramkrongart and Jakub Raszka**
